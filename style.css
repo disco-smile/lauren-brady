@@ -1,0 +1,9 @@
+body {
+    background-color: fuchsia;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    border: 5px dotted blanchedalmond; 
+    text-align: right;
+}
